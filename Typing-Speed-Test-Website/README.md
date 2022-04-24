@@ -9,4 +9,3 @@ Stacks Used:
 HTML & CSS
 JavaScript
 
-[Typing Speed Test Website](file:///C:/Users/Mansi%20Rajpurohit/Documents/GitHub/Mini-Projects/Typing-Speed-Test-Website/index.html)
